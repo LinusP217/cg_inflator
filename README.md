@@ -40,7 +40,7 @@ The script will ask for your institutional Canvas url and api key, so have those
 ## Installation
 
 ```bash
-wget cg_inflator.py
+wget cg_inflator.py https://raw.githubusercontent.com/LinusP217/cg_inflator/refs/heads/main/cg_inflator.py
 ```
-Best to run it in a clean conda environment ([instructions]()).
+Best to run it in a clean conda environment ([instructions](https://github.com/LinusP217/cg_inflator/blob/main/conda_env_instructions.md)).
 
