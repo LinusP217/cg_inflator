@@ -30,11 +30,12 @@ Emily   |      0     |     2
 
 ## Usage
 
+The script runs as a cli program that prompts the user for information. To get going, simply type
 
 ```bash
 python cg_inflator.py
 ```
-Have your institutional Canvas url and api key ready to go.
+The script will ask for your institutional Canvas url and api key, so have those ready to go.
 
 ## Installation
 
@@ -42,3 +43,4 @@ Have your institutional Canvas url and api key ready to go.
 wget cg_inflator.py
 ```
 Best to run it in a clean conda environment ([instructions]()).
+
